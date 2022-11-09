@@ -4,7 +4,7 @@ void setup() {
   pinMode(2, OUTPUT);
   Serial.begin(115200);
   delay(1);
-  Serial.println("Wake ");
+  Serial.println("Wake up ");
 }
 
 void loop() {
