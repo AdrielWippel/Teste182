@@ -17,7 +17,7 @@ void loop() {
   delay(500);
   digitalWrite(2, LOW);
   delay(200);
-  Serial.println("Timer - tempo");
+  Serial.println("Timer - bye");
   }
   
   Serial.println("Sleep ");
